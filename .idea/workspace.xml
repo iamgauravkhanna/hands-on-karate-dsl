@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d9cf8d0-a2cb-4e0d-be22-e728e432e8dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hands-on-karate-dsl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/get/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/get/UserTests.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +39,47 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner (1)">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hands-on-karate-dsl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hands-on-karate-dsl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate.get" />
+      <option name="MAIN_CLASS_NAME" value="karate.get.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner (1)" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,5 +93,31 @@
       <updated>1585059307456</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="103" key="#Project_Structure" timestamp="1585059426051">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="103" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1585059426051" />
+    <state x="410" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585063228589">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="410" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1585063228589" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585065057433">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585065057433" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585065057432">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585065057432" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585065057432">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585065057432" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585065057433">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585065057433" />
   </component>
 </project>
