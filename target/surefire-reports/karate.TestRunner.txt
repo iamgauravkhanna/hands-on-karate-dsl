@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: karate.TestRunner
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.64 sec <<< FAILURE!
-[1:2] Fetch all users([UserTests])  Time elapsed: 0.851 sec  <<< ERROR!
-com.intuit.karate.exception.KarateException: UserTests.feature:6 - assert evaluated to false: response.length == 6
-	at ✽.And assert response.length == 6 (UserTests.feature:6)
-

@@ -8,6 +8,11 @@
     <artifactId>hands-on-karate-dsl</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+    </properties>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-apache -->
         <dependency>
@@ -20,12 +25,6 @@
             <groupId>com.intuit.karate</groupId>
             <artifactId>karate-junit4</artifactId>
             <version>0.9.5</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-testng -->
-        <dependency>
-            <groupId>com.intuit.karate</groupId>
-            <artifactId>karate-testng</artifactId>
-            <version>0.8.0</version>
         </dependency>
     </dependencies>
 

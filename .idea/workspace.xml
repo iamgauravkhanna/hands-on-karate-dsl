@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5d9cf8d0-a2cb-4e0d-be22-e728e432e8dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/karate/get/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/karate/get/UserTests.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/karate.get.UserTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/karate.get.UserTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/hands-on-karate-dsl.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,28 +26,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZZvD7M7JMLXbllXkL2ZEVfiZqU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.TestRunner (1)">
+    <configuration name="TestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hands-on-karate-dsl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate.get" />
+      <option name="MAIN_CLASS_NAME" value="karate.get.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hands-on-karate-dsl" />
       <extension name="coverage">
@@ -81,6 +100,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,30 +114,8 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="320" y="103" key="#Project_Structure" timestamp="1585059426051">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="320" y="103" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1585059426051" />
-    <state x="410" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585063228589">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="410" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1585063228589" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585065057433">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585065057433" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585065057432">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585065057432" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585065057432">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585065057432" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585065057433">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585065057433" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
