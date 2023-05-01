@@ -1,1 +1,1 @@
-mvn clean install test
+mvn clean install test -Dkarate.env=qa
